@@ -4,7 +4,7 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-compon-solution)
+- [Frontend Mentor - Mortgage repayment calculator solution](#frontend-mentor---mortgage-repayment-calculator-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -13,7 +13,7 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)**
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
